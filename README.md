@@ -21,7 +21,7 @@ Long and unstructured
 
 So, the goal of this project is to convert complex academic content into simple, structured explanations using AI.
 
-##💡 **Proposed Solution
+ **Proposed Solution
 **
 We use a combination of:
 
