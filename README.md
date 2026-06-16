@@ -1,4 +1,4 @@
-##**Project Overview**
+**Project Overview**
 
 This project is an AI-powered Research Paper Summarizer Application built using LangChain, Groq LLM, and Streamlit.
 It is designed to simplify complex research papers into easy-to-understand explanations with customizable output style and length.
@@ -9,7 +9,7 @@ It is designed to simplify complex research papers into easy-to-understand expla
 
 🔗 Streamlit: https://streamlit.io/
 
- ##**Problem Statement**
+ **Problem Statement**
 
 Research papers are often:
 
@@ -33,8 +33,8 @@ Streamlit → to build an interactive UI
 
 This allows users to get instant summaries in different styles and lengths.
 **
-##⚙️ Step-by-Step Working
-##1️⃣ User Input Collection**
+⚙️ Step-by-Step Working
+1️⃣ User Input Collection**
 
 **User selects:**
 
@@ -46,7 +46,7 @@ Explanation Length (Short / Medium / Long)
 
 This makes the system flexible and user-driven.
 
-**#****#2️⃣ Prompt Engineering**
+**2️⃣ Prompt Engineering**
 
 All inputs are dynamically inserted into a PromptTemplate.
 
@@ -60,7 +60,7 @@ Responses are aligned with user preferences
 
 🔗 https://www.promptingguide.ai/
 
-**##3️⃣ LangChain Workflow**
+**3️⃣ LangChain Workflow**
 
 LangChain acts as the bridge between:
 
@@ -74,7 +74,7 @@ It helps organize and structure the AI pipeline efficiently.
 
 🔗 https://python.langchain.com/
 
-**##4️⃣ Groq LLM Processing**
+**4️⃣ Groq LLM Processing**
 
 The formatted prompt is sent to Groq LLM, which:
 
@@ -86,7 +86,7 @@ Generates high-speed AI response
 
 🔗 https://console.groq.com/docs
 
-**##5️⃣ Response Generation**
+**5️⃣ Response Generation**
 
 The AI output includes:
 
@@ -102,7 +102,7 @@ Step-by-step understanding
 
 This makes complex topics easier to learn.
 
-**##6️⃣ Streamlit UI Display**
+**6️⃣ Streamlit UI Display**
 
 The final response is shown using Streamlit, which provides:
 
@@ -114,7 +114,7 @@ Instant output display
 
 🔗 https://docs.streamlit.io/
 
-**##🧠 System Architecture**
+**🧠 System Architecture**
 
 User Input (Streamlit UI)
 
@@ -126,7 +126,7 @@ User Input (Streamlit UI)
 
 → Streamlit Output Display
 
-**##✨ Key Features**
+**✨ Key Features**
 📚 Research paper selection system
 
 🎯 Custom explanation style control
@@ -151,7 +151,7 @@ Streamlit → https://streamlit.io/
 
 Prompt Engineering → https://www.promptingguide.ai/
 
-**##🚀 Project Impact**
+**🚀 Project Impact**
 
 
 This project demonstrates:
@@ -166,7 +166,7 @@ End-to-end AI workflow design
 
 UI + backend integration
 
-**##🎯 Outcome**
+**🎯 Outcome**
 
 
 
